@@ -1,0 +1,14 @@
+export const SPACE_0 = '0px';
+export const SPACE_4 = '4px';
+export const SPACE_8 = '8px';
+export const SPACE_12 = '12px';
+export const SPACE_16 = '16px';
+export const SPACE_24 = '24px';
+export const SPACE_32 = '32px';
+export const SPACE_40 = '40px';
+export const SPACE_48 = '48px';
+export const SPACE_64 = '64px';
+export const SPACE_80 = '80px';
+export const SPACE_96 = '96px';
+export const SPACE_112 = '112px';
+export const SPACE_128 = '128px';
